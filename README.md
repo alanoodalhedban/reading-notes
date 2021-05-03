@@ -6,4 +6,4 @@ I graduated from university in 2019, after that I worked in the UAE at Dalan Com
 |topic|details |
 | --- | ----------- |
 | The mind|[dop1](https://alanoodalhedban.github.io/reading-notes/dop1)  |
-|   Logic | Text |
+|   Logic | [dop2( https://alanoodalhedban.github.io/reading-notes/dop2) |
