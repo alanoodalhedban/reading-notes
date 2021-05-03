@@ -1,4 +1,7 @@
+
 # reading-notes
+my name is alanood alhedban I want to show some information about mindset
+
 **growth mindset :**
 ***people believe that their most basic abilities can be developed through dedication and hard work—brains and talent are just the starting point. This view creates a love of learning and a resilience that is essential for great accomplishment***
 
