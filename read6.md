@@ -1,4 +1,4 @@
-#this article talk about JavaScript function
+this article talk about JavaScript function
 
 *A JavaScript function is a block of code designed to perform a particular task.
 
