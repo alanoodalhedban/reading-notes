@@ -4,7 +4,7 @@
 
 | title |file |
 | --- | --- |
-| `read1` | [class-01.md](https://pages.github.com/)      |
+| `read1` | [class-01.md](https://reading-notes/blob/main/class-01.md)      |
 | `read2` |                         |
 | `read3` |                         |
 | `read4` |                         |
