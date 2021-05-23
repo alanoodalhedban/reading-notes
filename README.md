@@ -4,7 +4,7 @@
 
 | title |file |
 | --- | --- |
-| `read1` | [class-01.md](https://github.com/alanoodalhedban/reading-notes/blob/main/class-01.md) |
+| `read1` | [class-01.md](https://alanoodalhedban.github.io/reading-notes/class-01) |
 | `read2` |                         |
 | `read3` |                         |
 | `read4` |                         |
