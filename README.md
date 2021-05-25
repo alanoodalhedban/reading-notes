@@ -6,7 +6,7 @@
 | --- | --- |
 | `read1` | [class-01.md](https://alanoodalhedban.github.io/reading-notes/class-01) |
 | `read2` | [class-02.md](https://alanoodalhedban.github.io/reading-notes/class-02 ) |
-| `read3` |                         |
+| `read3` | [class-03.md](https://alanoodalhedban.github.io/reading-notes/class-03 )       |
 | `read4` |                         |
 | `read5` |                         |
 | `read6` |                         |
