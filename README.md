@@ -10,7 +10,7 @@
 | `read4` |  [class-04.md](https://alanoodalhedban.github.io/reading-notes/class-04)    |
 | `read5` |  [class-05.md](https://alanoodalhedban.github.io/reading-notes/class-05)                         |
 | `read6` |   [class-06.md](https://alanoodalhedban.github.io/reading-notes/class-06)                       |
-| `read7` |                         |
+| `read7` |   [class-07.md](https://alanoodalhedban.github.io/reading-notes/class-07)                          |
 | `read8` |                         |
 | `read9` |                         |
 | `read10` |                         |
