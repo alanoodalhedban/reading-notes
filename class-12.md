@@ -11,4 +11,4 @@ t's easy to get started with Chart.js. All that's required is the script include
 
 
 
-![](m.png)
+![](m.jpg)
