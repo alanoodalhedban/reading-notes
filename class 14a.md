@@ -21,7 +21,6 @@ Transitional Properties :
 
 
 
+-Animations within CSS3 allow the appearance and behavior of an element to be altered in multiple keyframes. Transitions provide a change from one state to another, while animations can set multiple points of transition upon different keyframes..
 
--Animations within CSS3 allow the appearance and behavior of an element to be altered in multiple keyframes. Transitions provide a change from one state to another, while animations can set multiple points of transition upon different keyframes.
-
-![](e.jpg)
+![](e.jpg) 
