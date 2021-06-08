@@ -17,5 +17,5 @@
 | `read11` |[class-11.md](https://alanoodalhedban.github.io/reading-notes/class-11)                          |
 | `read12` | [class-12.md](https://alanoodalhedban.github.io/reading-notes/class-12)                        |
 | `read13` |  [class-13.md](https://alanoodalhedban.github.io/reading-notes/class-13)                           |
-| `read14` |                         |
-| `read15` |                         |
+| `read14a` |  [class-14a.md](https://alanoodalhedban.github.io/reading-notes/class-14a)                        |
+| `read14b` |                         |
